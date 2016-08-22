@@ -19,6 +19,8 @@ package com.example.android.bluetoothchat;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.ViewAnimator;
@@ -36,7 +38,7 @@ import com.example.android.common.logger.MessageOnlyLogFilter;
  * For devices with displays with a width of 720dp or greater, the sample log is always visible,
  * on other devices it's visibility is controlled by an item on the Action Bar.
  */
-public class MainActivity extends SampleActivityBase {
+public class MainActivity extends AppCompatActivity {
 
     public static final String TAG = "MainActivity";
 
@@ -89,7 +91,7 @@ public class MainActivity extends SampleActivityBase {
     }
 
     /** Create a chain of targets that will receive log data */
-    @Override
+   // @Override
     public void initializeLogging() {
         // Wraps Android's native log framework.
         LogWrapper logWrapper = new LogWrapper();
@@ -99,11 +101,6 @@ public class MainActivity extends SampleActivityBase {
         // Filter strips out everything except the message text.
         MessageOnlyLogFilter msgFilter = new MessageOnlyLogFilter();
         logWrapper.setNext(msgFilter);
-
-        // On screen logging via a fragment with a TextView.
-        LogFragment logFragment = (LogFragment) getSupportFragmentManager()
-                .findFragmentById(R.id.log_fragment);
-        msgFilter.setNext(logFragment.getLogView());
 
         Log.i(TAG, "Ready");
     }

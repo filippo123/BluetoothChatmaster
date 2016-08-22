@@ -22,7 +22,8 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:theme="">
 
         <ImageView
             android:layout_width="150dp"
@@ -62,7 +63,8 @@
         <TextView
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:text="New Text"
+            android:text="0"
+            android:gravity="center"
             android:id="@+id/distancia"
             android:layout_marginTop="36dp"
             android:layout_below="@+id/etiqueta"
@@ -81,7 +83,8 @@
         <TextView
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:text="New Text"
+            android:text="0"
+            android:gravity="center"
             android:id="@+id/tiempo"
             android:layout_alignBottom="@+id/distancia"
             android:layout_toRightOf="@+id/textView2"
@@ -100,7 +103,8 @@
         <TextView
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:text="New Text"
+            android:text="0"
+            android:gravity="center"
             android:id="@+id/speed"
             android:layout_below="@+id/textView8"
             android:layout_toLeftOf="@+id/textView2"
@@ -119,7 +123,8 @@
         <TextView
             android:layout_width="80dp"
             android:layout_height="80dp"
-            android:text="New Text"
+            android:text="0"
+            android:gravity="center"
             android:id="@+id/calorias"
             android:layout_alignBottom="@+id/speed"
             android:layout_toRightOf="@+id/textView2" />
