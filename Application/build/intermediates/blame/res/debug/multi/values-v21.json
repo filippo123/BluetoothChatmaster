@@ -45,8 +45,27 @@
                     "startLine": 4,
                     "startColumn": 4,
                     "startOffset": 143,
+                    "endColumn": 44,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endColumn": 44,
+                        "endOffset": 1123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 188,
                     "endColumn": 41,
-                    "endOffset": 180
+                    "endOffset": 225
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
@@ -61,11 +80,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 185,
+                    "startOffset": 230,
                     "endColumn": 39,
-                    "endOffset": 220
+                    "endOffset": 265
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
@@ -80,11 +99,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 225,
+                    "startOffset": 270,
                     "endColumn": 47,
-                    "endOffset": 268
+                    "endOffset": 313
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
@@ -99,11 +118,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 273,
+                    "startOffset": 318,
                     "endColumn": 46,
-                    "endOffset": 315
+                    "endOffset": 360
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
@@ -118,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 320,
+                    "startOffset": 365,
                     "endColumn": 47,
-                    "endOffset": 363
+                    "endOffset": 408
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
@@ -137,11 +156,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 368,
+                    "startOffset": 413,
                     "endColumn": 46,
-                    "endOffset": 410
+                    "endOffset": 455
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
@@ -156,11 +175,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 415,
+                    "startOffset": 460,
                     "endColumn": 48,
-                    "endOffset": 459
+                    "endOffset": 504
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\src\\main\\res\\values-v21\\base-colors.xml",
@@ -175,11 +194,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 464,
+                    "startOffset": 509,
                     "endColumn": 90,
-                    "endOffset": 550
+                    "endOffset": 595
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -194,11 +213,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 555,
+                    "startOffset": 600,
                     "endColumn": 102,
-                    "endOffset": 653
+                    "endOffset": 698
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -213,11 +232,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 658,
+                    "startOffset": 703,
                     "endColumn": 102,
-                    "endOffset": 756
+                    "endOffset": 801
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -232,11 +251,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 761,
+                    "startOffset": 806,
                     "endColumn": 104,
-                    "endOffset": 861
+                    "endOffset": 906
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -251,11 +270,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 866,
+                    "startOffset": 911,
                     "endColumn": 106,
-                    "endOffset": 968
+                    "endOffset": 1013
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -270,11 +289,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 973,
+                    "startOffset": 1018,
                     "endColumn": 108,
-                    "endOffset": 1077
+                    "endOffset": 1122
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -289,11 +308,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1082,
+                    "startOffset": 1127,
                     "endColumn": 108,
-                    "endOffset": 1186
+                    "endOffset": 1231
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -308,11 +327,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1191,
+                    "startOffset": 1236,
                     "endColumn": 108,
-                    "endOffset": 1295
+                    "endOffset": 1340
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -327,11 +346,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1300,
+                    "startOffset": 1345,
                     "endColumn": 108,
-                    "endOffset": 1404
+                    "endOffset": 1449
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -346,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1409,
+                    "startOffset": 1454,
                     "endColumn": 108,
-                    "endOffset": 1513
+                    "endOffset": 1558
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -365,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1518,
+                    "startOffset": 1563,
                     "endColumn": 106,
-                    "endOffset": 1620
+                    "endOffset": 1665
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -384,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1625,
+                    "startOffset": 1670,
                     "endColumn": 102,
-                    "endOffset": 1723
+                    "endOffset": 1768
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -403,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1728,
+                    "startOffset": 1773,
                     "endColumn": 118,
-                    "endOffset": 1842
+                    "endOffset": 1887
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -422,12 +441,12 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1847,
-                    "endLine": 25,
+                    "startOffset": 1892,
+                    "endLine": 26,
                     "endColumn": 12,
-                    "endOffset": 1997
+                    "endOffset": 2042
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -443,12 +462,12 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2002,
-                    "endLine": 27,
+                    "startOffset": 2047,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 2152
+                    "endOffset": 2197
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -464,11 +483,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2157,
+                    "startOffset": 2202,
                     "endColumn": 104,
-                    "endOffset": 2257
+                    "endOffset": 2302
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -483,11 +502,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2262,
+                    "startOffset": 2307,
                     "endColumn": 120,
-                    "endOffset": 2378
+                    "endOffset": 2423
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -502,11 +521,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2383,
+                    "startOffset": 2428,
                     "endColumn": 100,
-                    "endOffset": 2479
+                    "endOffset": 2524
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -521,12 +540,12 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2484,
-                    "endLine": 32,
+                    "startOffset": 2529,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 2626
+                    "endOffset": 2671
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -542,12 +561,12 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2631,
-                    "endLine": 34,
+                    "startOffset": 2676,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 2767
+                    "endOffset": 2812
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -563,11 +582,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2772,
+                    "startOffset": 2817,
                     "endColumn": 102,
-                    "endOffset": 2870
+                    "endOffset": 2915
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -582,11 +601,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2875,
+                    "startOffset": 2920,
                     "endColumn": 118,
-                    "endOffset": 2989
+                    "endOffset": 3034
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -601,11 +620,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2994,
+                    "startOffset": 3039,
                     "endColumn": 106,
-                    "endOffset": 3096
+                    "endOffset": 3141
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -620,11 +639,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3101,
+                    "startOffset": 3146,
                     "endColumn": 102,
-                    "endOffset": 3199
+                    "endOffset": 3244
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -639,12 +658,12 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3204,
-                    "endLine": 40,
+                    "startOffset": 3249,
+                    "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 3354
+                    "endOffset": 3399
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -660,12 +679,12 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3359,
-                    "endLine": 42,
+                    "startOffset": 3404,
+                    "endLine": 43,
                     "endColumn": 12,
-                    "endOffset": 3525
+                    "endOffset": 3570
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -681,12 +700,12 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3530,
-                    "endLine": 44,
+                    "startOffset": 3575,
+                    "endLine": 45,
                     "endColumn": 12,
-                    "endOffset": 3674
+                    "endOffset": 3719
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -702,12 +721,12 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3679,
-                    "endLine": 46,
+                    "startOffset": 3724,
+                    "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 3839
+                    "endOffset": 3884
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -723,12 +742,12 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3844,
-                    "endLine": 48,
+                    "startOffset": 3889,
+                    "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 3996
+                    "endOffset": 4041
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -744,12 +763,12 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4001,
-                    "endLine": 50,
+                    "startOffset": 4046,
+                    "endLine": 51,
                     "endColumn": 12,
-                    "endOffset": 4147
+                    "endOffset": 4192
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -765,11 +784,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4152,
+                    "startOffset": 4197,
                     "endColumn": 118,
-                    "endOffset": 4266
+                    "endOffset": 4311
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -784,12 +803,12 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 4271,
-                    "endLine": 56,
+                    "startOffset": 4316,
+                    "endLine": 57,
                     "endColumn": 12,
-                    "endOffset": 4638
+                    "endOffset": 4683
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -805,12 +824,12 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 4643,
-                    "endLine": 58,
+                    "startOffset": 4688,
+                    "endLine": 59,
                     "endColumn": 12,
-                    "endOffset": 4787
+                    "endOffset": 4832
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -826,12 +845,12 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 4792,
-                    "endLine": 60,
+                    "startOffset": 4837,
+                    "endLine": 61,
                     "endColumn": 12,
-                    "endOffset": 4936
+                    "endOffset": 4981
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -847,11 +866,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 4941,
+                    "startOffset": 4986,
                     "endColumn": 111,
-                    "endOffset": 5048
+                    "endOffset": 5093
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -866,11 +885,11 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5053,
+                    "startOffset": 5098,
                     "endColumn": 146,
-                    "endOffset": 5195
+                    "endOffset": 5240
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -885,12 +904,12 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 5200,
-                    "endLine": 64,
+                    "startOffset": 5245,
+                    "endLine": 65,
                     "endColumn": 12,
-                    "endOffset": 5348
+                    "endOffset": 5393
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -906,12 +925,12 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 5353,
-                    "endLine": 66,
+                    "startOffset": 5398,
+                    "endLine": 67,
                     "endColumn": 12,
-                    "endOffset": 5495
+                    "endOffset": 5540
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -927,11 +946,11 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 5500,
+                    "startOffset": 5545,
                     "endColumn": 74,
-                    "endOffset": 5570
+                    "endOffset": 5615
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -946,11 +965,11 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 5575,
+                    "startOffset": 5620,
                     "endColumn": 88,
-                    "endOffset": 5659
+                    "endOffset": 5704
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -965,11 +984,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 5664,
+                    "startOffset": 5709,
                     "endColumn": 86,
-                    "endOffset": 5746
+                    "endOffset": 5791
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -984,11 +1003,11 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 5751,
+                    "startOffset": 5796,
                     "endColumn": 100,
-                    "endOffset": 5847
+                    "endOffset": 5892
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1003,11 +1022,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 5852,
+                    "startOffset": 5897,
                     "endColumn": 102,
-                    "endOffset": 5950
+                    "endOffset": 5995
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1022,12 +1041,12 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 5955,
-                    "endLine": 115,
+                    "startOffset": 6000,
+                    "endLine": 116,
                     "endColumn": 12,
-                    "endOffset": 9018
+                    "endOffset": 9063
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1043,12 +1062,12 @@
             },
             {
                 "to": {
-                    "startLine": 116,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 9023,
-                    "endLine": 118,
+                    "startOffset": 9068,
+                    "endLine": 119,
                     "endColumn": 12,
-                    "endOffset": 9204
+                    "endOffset": 9249
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1064,12 +1083,12 @@
             },
             {
                 "to": {
-                    "startLine": 119,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 9209,
-                    "endLine": 162,
+                    "startOffset": 9254,
+                    "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12284
+                    "endOffset": 12329
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1085,12 +1104,12 @@
             },
             {
                 "to": {
-                    "startLine": 163,
+                    "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12289,
-                    "endLine": 165,
+                    "startOffset": 12334,
+                    "endLine": 166,
                     "endColumn": 12,
-                    "endOffset": 12482
+                    "endOffset": 12527
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1106,12 +1125,12 @@
             },
             {
                 "to": {
-                    "startLine": 166,
+                    "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 12487,
-                    "endLine": 168,
+                    "startOffset": 12532,
+                    "endLine": 169,
                     "endColumn": 12,
-                    "endOffset": 12682
+                    "endOffset": 12727
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1127,12 +1146,12 @@
             },
             {
                 "to": {
-                    "startLine": 169,
+                    "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 12687,
-                    "endLine": 170,
+                    "startOffset": 12732,
+                    "endLine": 171,
                     "endColumn": 12,
-                    "endOffset": 12805
+                    "endOffset": 12850
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1148,12 +1167,12 @@
             },
             {
                 "to": {
-                    "startLine": 171,
+                    "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 12810,
-                    "endLine": 172,
+                    "startOffset": 12855,
+                    "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 12928
+                    "endOffset": 12973
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1169,12 +1188,12 @@
             },
             {
                 "to": {
-                    "startLine": 173,
+                    "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 12933,
-                    "endLine": 174,
+                    "startOffset": 12978,
+                    "endLine": 175,
                     "endColumn": 12,
-                    "endOffset": 13041
+                    "endOffset": 13086
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1190,12 +1209,12 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 13046,
-                    "endLine": 177,
+                    "startOffset": 13091,
+                    "endLine": 178,
                     "endColumn": 12,
-                    "endOffset": 13224
+                    "endOffset": 13269
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1211,12 +1230,12 @@
             },
             {
                 "to": {
-                    "startLine": 178,
+                    "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13229,
-                    "endLine": 179,
+                    "startOffset": 13274,
+                    "endLine": 180,
                     "endColumn": 12,
-                    "endOffset": 13355
+                    "endOffset": 13400
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1232,12 +1251,12 @@
             },
             {
                 "to": {
-                    "startLine": 180,
+                    "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 13360,
-                    "endLine": 182,
+                    "startOffset": 13405,
+                    "endLine": 183,
                     "endColumn": 12,
-                    "endOffset": 13556
+                    "endOffset": 13601
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1253,11 +1272,11 @@
             },
             {
                 "to": {
-                    "startLine": 183,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 13561,
+                    "startOffset": 13606,
                     "endColumn": 88,
-                    "endOffset": 13645
+                    "endOffset": 13690
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1272,11 +1291,11 @@
             },
             {
                 "to": {
-                    "startLine": 184,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 13650,
+                    "startOffset": 13695,
                     "endColumn": 110,
-                    "endOffset": 13756
+                    "endOffset": 13801
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1291,12 +1310,12 @@
             },
             {
                 "to": {
-                    "startLine": 185,
+                    "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 13761,
-                    "endLine": 187,
+                    "startOffset": 13806,
+                    "endLine": 188,
                     "endColumn": 12,
-                    "endOffset": 13989
+                    "endOffset": 14034
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1312,11 +1331,11 @@
             },
             {
                 "to": {
-                    "startLine": 188,
+                    "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 13994,
+                    "startOffset": 14039,
                     "endColumn": 100,
-                    "endOffset": 14090
+                    "endOffset": 14135
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1331,11 +1350,11 @@
             },
             {
                 "to": {
-                    "startLine": 189,
+                    "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 14095,
+                    "startOffset": 14140,
                     "endColumn": 94,
-                    "endOffset": 14185
+                    "endOffset": 14230
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1350,11 +1369,11 @@
             },
             {
                 "to": {
-                    "startLine": 190,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14190,
+                    "startOffset": 14235,
                     "endColumn": 122,
-                    "endOffset": 14308
+                    "endOffset": 14353
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1369,11 +1388,11 @@
             },
             {
                 "to": {
-                    "startLine": 191,
+                    "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 14313,
+                    "startOffset": 14358,
                     "endColumn": 128,
-                    "endOffset": 14437
+                    "endOffset": 14482
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1388,11 +1407,11 @@
             },
             {
                 "to": {
-                    "startLine": 192,
+                    "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 14442,
+                    "startOffset": 14487,
                     "endColumn": 116,
-                    "endOffset": 14554
+                    "endOffset": 14599
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1407,12 +1426,12 @@
             },
             {
                 "to": {
-                    "startLine": 193,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14559,
-                    "endLine": 195,
+                    "startOffset": 14604,
+                    "endLine": 196,
                     "endColumn": 12,
-                    "endOffset": 14731
+                    "endOffset": 14776
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1428,11 +1447,11 @@
             },
             {
                 "to": {
-                    "startLine": 196,
+                    "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 14736,
+                    "startOffset": 14781,
                     "endColumn": 98,
-                    "endOffset": 14830
+                    "endOffset": 14875
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1447,12 +1466,12 @@
             },
             {
                 "to": {
-                    "startLine": 197,
+                    "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 14835,
-                    "endLine": 198,
+                    "startOffset": 14880,
+                    "endLine": 199,
                     "endColumn": 12,
-                    "endOffset": 14965
+                    "endOffset": 15010
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1468,12 +1487,12 @@
             },
             {
                 "to": {
-                    "startLine": 199,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 14970,
-                    "endLine": 200,
+                    "startOffset": 15015,
+                    "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 15108
+                    "endOffset": 15153
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1489,12 +1508,12 @@
             },
             {
                 "to": {
-                    "startLine": 201,
+                    "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 15113,
-                    "endLine": 202,
+                    "startOffset": 15158,
+                    "endLine": 203,
                     "endColumn": 12,
-                    "endOffset": 15243
+                    "endOffset": 15288
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1510,12 +1529,12 @@
             },
             {
                 "to": {
-                    "startLine": 203,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 15248,
-                    "endLine": 204,
+                    "startOffset": 15293,
+                    "endLine": 205,
                     "endColumn": 12,
-                    "endOffset": 15362
+                    "endOffset": 15407
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1531,12 +1550,12 @@
             },
             {
                 "to": {
-                    "startLine": 205,
+                    "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 15367,
-                    "endLine": 208,
+                    "startOffset": 15412,
+                    "endLine": 209,
                     "endColumn": 12,
-                    "endOffset": 15563
+                    "endOffset": 15608
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1552,12 +1571,12 @@
             },
             {
                 "to": {
-                    "startLine": 209,
+                    "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 15568,
-                    "endLine": 210,
+                    "startOffset": 15613,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 15682
+                    "endOffset": 15727
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1573,11 +1592,11 @@
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15687,
+                    "startOffset": 15732,
                     "endColumn": 92,
-                    "endOffset": 15775
+                    "endOffset": 15820
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1592,11 +1611,11 @@
             },
             {
                 "to": {
-                    "startLine": 212,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 15780,
+                    "startOffset": 15825,
                     "endColumn": 110,
-                    "endOffset": 15886
+                    "endOffset": 15931
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1611,11 +1630,11 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 15891,
+                    "startOffset": 15936,
                     "endColumn": 55,
-                    "endOffset": 15942
+                    "endOffset": 15987
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1630,12 +1649,12 @@
             },
             {
                 "to": {
-                    "startLine": 214,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 15947,
-                    "endLine": 215,
+                    "startOffset": 15992,
+                    "endLine": 216,
                     "endColumn": 12,
-                    "endOffset": 16049
+                    "endOffset": 16094
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1651,12 +1670,12 @@
             },
             {
                 "to": {
-                    "startLine": 216,
+                    "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 16054,
-                    "endLine": 219,
+                    "startOffset": 16099,
+                    "endLine": 220,
                     "endColumn": 12,
-                    "endOffset": 16244
+                    "endOffset": 16289
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1672,12 +1691,12 @@
             },
             {
                 "to": {
-                    "startLine": 220,
+                    "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 16249,
-                    "endLine": 221,
+                    "startOffset": 16294,
+                    "endLine": 222,
                     "endColumn": 12,
-                    "endOffset": 16355
+                    "endOffset": 16400
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1693,12 +1712,12 @@
             },
             {
                 "to": {
-                    "startLine": 222,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 16360,
-                    "endLine": 223,
+                    "startOffset": 16405,
+                    "endLine": 224,
                     "endColumn": 12,
-                    "endOffset": 16488
+                    "endOffset": 16533
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1714,11 +1733,11 @@
             },
             {
                 "to": {
-                    "startLine": 224,
+                    "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 16493,
+                    "startOffset": 16538,
                     "endColumn": 94,
-                    "endOffset": 16583
+                    "endOffset": 16628
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1733,11 +1752,11 @@
             },
             {
                 "to": {
-                    "startLine": 225,
+                    "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 16588,
+                    "startOffset": 16633,
                     "endColumn": 90,
-                    "endOffset": 16674
+                    "endOffset": 16719
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1752,11 +1771,11 @@
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 16679,
+                    "startOffset": 16724,
                     "endColumn": 90,
-                    "endOffset": 16765
+                    "endOffset": 16810
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1771,11 +1790,11 @@
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 16770,
+                    "startOffset": 16815,
                     "endColumn": 116,
-                    "endOffset": 16882
+                    "endOffset": 16927
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1790,12 +1809,12 @@
             },
             {
                 "to": {
-                    "startLine": 228,
+                    "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 16887,
-                    "endLine": 229,
+                    "startOffset": 16932,
+                    "endLine": 230,
                     "endColumn": 12,
-                    "endOffset": 17021
+                    "endOffset": 17066
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1811,12 +1830,12 @@
             },
             {
                 "to": {
-                    "startLine": 230,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 17026,
-                    "endLine": 239,
+                    "startOffset": 17071,
+                    "endLine": 240,
                     "endColumn": 12,
-                    "endOffset": 17534
+                    "endOffset": 17579
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1832,12 +1851,12 @@
             },
             {
                 "to": {
-                    "startLine": 240,
+                    "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 17539,
-                    "endLine": 249,
+                    "startOffset": 17584,
+                    "endLine": 250,
                     "endColumn": 12,
-                    "endOffset": 18059
+                    "endOffset": 18104
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1853,12 +1872,12 @@
             },
             {
                 "to": {
-                    "startLine": 250,
+                    "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 18064,
-                    "endLine": 259,
+                    "startOffset": 18109,
+                    "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 18739
+                    "endOffset": 18784
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1874,11 +1893,11 @@
             },
             {
                 "to": {
-                    "startLine": 260,
+                    "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 18744,
+                    "startOffset": 18789,
                     "endColumn": 56,
-                    "endOffset": 18796
+                    "endOffset": 18841
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1893,11 +1912,11 @@
             },
             {
                 "to": {
-                    "startLine": 261,
+                    "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 18801,
+                    "startOffset": 18846,
                     "endColumn": 57,
-                    "endOffset": 18854
+                    "endOffset": 18899
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-v21\\values-v21.xml",
@@ -1912,12 +1931,12 @@
             },
             {
                 "to": {
-                    "startLine": 262,
+                    "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 18859,
-                    "endLine": 263,
+                    "startOffset": 18904,
+                    "endLine": 264,
                     "endColumn": 12,
-                    "endOffset": 18935
+                    "endOffset": 18980
                 },
                 "from": {
                     "file": "C:\\Users\\Filippo\\Desktop\\clone\\BluetoothChatmaster\\Application\\src\\main\\res\\values-v21\\base-template-styles.xml",

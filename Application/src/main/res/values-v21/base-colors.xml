@@ -21,9 +21,10 @@
     <color name="primary_color">#FFA000</color>
     <color name="primary_light">#FFECB3</color>
     <color name="primary_dark">#FF5722</color>
-    <color name="primary_text">#212121</color>
+    <color name="primary_text">#FFF3E0</color>
     <color name="secondary_text">#757575</color>
     <color name="icons">#212121</color>
     <color name="divider">#BDBDBD</color>
+    <color name="back_grown">#212121</color>
 
 </resources>

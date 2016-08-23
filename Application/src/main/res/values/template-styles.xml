@@ -31,6 +31,7 @@
 
     <style name="Widget" />
 
+
     <style name="Widget.SampleMessage">
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
         <item name="android:lineSpacingMultiplier">1.1</item>
@@ -42,5 +43,49 @@
         <item name="android:shadowDy">-3.5</item>
         <item name="android:shadowRadius">2</item>
     </style>
+
+
+    <!-- Text Views Default Base -->
+
+    <style name="StiloFragment">
+        <item name="background">@color/back_grown</item>
+    </style>
+
+
+    <style name="TextViewDisplay2" parent="TextAppearance.AppCompat.Display2">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+
+    <style name="TextViewDisplay1" parent="TextAppearance.AppCompat.Display1">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+
+    <style name="TextViewHeadline" parent="TextAppearance.AppCompat.Headline">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+
+    <style name="TextViewTitle" parent="TextAppearance.AppCompat.Title">
+        <item name="fontPath">fonts/Roboto-Medium.ttf</item>
+    </style>
+
+    <style name="TextViewSubhead" parent="TextAppearance.AppCompat.Subhead">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+
+    <style name="TextViewBody2" parent="TextAppearance.AppCompat.Body2">
+        <item name="fontPath">fonts/Roboto-Medium.ttf</item>
+    </style>
+
+    <style name="TextViewBody1" parent="TextAppearance.AppCompat.Body1">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+
+    <style name="TextViewCaption" parent="TextAppearance.AppCompat.Caption">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+
+    <style name="TextViewMenu" parent="TextAppearance.AppCompat.Menu"/>
+
+
 
 </resources>

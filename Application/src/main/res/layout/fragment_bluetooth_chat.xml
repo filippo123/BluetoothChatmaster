@@ -18,12 +18,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/back_grown"
     android:weightSum="1">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:theme="">
+        style="@style/Widget.SampleMessage">
 
         <ImageView
             android:layout_width="150dp"
@@ -35,32 +36,40 @@
             android:layout_alignParentEnd="false" />
 
         <TextView
+            style="@style/TextViewDisplay1"
+            android:backgroundTint="@color/primary_color"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="AV. España"
             android:id="@+id/textView3"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="33dp" />
+            android:layout_marginTop="33dp"
+            android:textColor="#ffe5de" />
 
         <TextView
+            style="@style/TextViewSubhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Parque Central"
             android:id="@+id/textView2"
             android:layout_below="@+id/textView3"
-            android:layout_centerHorizontal="true" />
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffe5de" />
 
         <TextView
+            style="@style/TextViewHeadline"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/distancia"
             android:id="@+id/etiqueta"
             android:layout_below="@+id/img"
             android:layout_alignLeft="@+id/distancia"
-            android:layout_alignStart="@+id/distancia" />
+            android:layout_alignStart="@+id/distancia"
+            android:textColor="#f2dfda" />
 
         <TextView
+            style="@style/TextViewSubhead"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:text="0"
@@ -69,18 +78,22 @@
             android:layout_marginTop="36dp"
             android:layout_below="@+id/etiqueta"
             android:layout_toLeftOf="@+id/textView2"
-            android:layout_toStartOf="@+id/textView2" />
+            android:layout_toStartOf="@+id/textView2"
+            android:textColor="#f2dfda" />
 
         <TextView
+            style="@style/TextViewHeadline"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/tiempo"
             android:id="@+id/textView6"
             android:layout_alignTop="@+id/etiqueta"
             android:layout_toRightOf="@+id/textView2"
-            android:layout_toEndOf="@+id/textView2" />
+            android:layout_toEndOf="@+id/textView2"
+            android:textColor="#f2dfda" />
 
         <TextView
+            style="@style/TextViewSubhead"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:text="0"
@@ -88,9 +101,11 @@
             android:id="@+id/tiempo"
             android:layout_alignBottom="@+id/distancia"
             android:layout_toRightOf="@+id/textView2"
-            android:layout_toEndOf="@+id/textView2" />
+            android:layout_toEndOf="@+id/textView2"
+            android:textColor="#f2dfda" />
 
         <TextView
+            style="@style/TextViewHeadline"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/velocidad"
@@ -98,9 +113,11 @@
             android:layout_marginTop="55dp"
             android:layout_below="@+id/distancia"
             android:layout_alignLeft="@+id/speed"
-            android:layout_alignStart="@+id/speed" />
+            android:layout_alignStart="@+id/speed"
+            android:textColor="#f2dfda" />
 
         <TextView
+            style="@style/TextViewSubhead"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:text="0"
@@ -109,25 +126,30 @@
             android:layout_below="@+id/textView8"
             android:layout_toLeftOf="@+id/textView2"
             android:layout_toStartOf="@+id/textView2"
-            android:layout_marginTop="41dp" />
+            android:layout_marginTop="41dp"
+            android:textColor="#f2dfda" />
 
         <TextView
+            style="@style/TextViewHeadline"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/calorias"
             android:id="@+id/textView10"
             android:layout_above="@+id/speed"
             android:layout_toRightOf="@+id/textView2"
-            android:layout_toEndOf="@+id/textView2" />
+            android:layout_toEndOf="@+id/textView2"
+            android:textColor="#f2dfda" />
 
         <TextView
+            style="@style/TextViewSubhead"
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:text="0"
             android:gravity="center"
             android:id="@+id/calorias"
             android:layout_alignBottom="@+id/speed"
-            android:layout_toRightOf="@+id/textView2" />
+            android:layout_toRightOf="@+id/textView2"
+            android:textColor="#fcc7b9" />
     </RelativeLayout>
 </LinearLayout>
 

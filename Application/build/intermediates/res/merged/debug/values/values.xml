@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <attr format="reference" name="drawerArrowStyle"/>
+    <attr format="string" name="fontPath"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
     <attr format="string" name="title"/>
@@ -66,7 +67,7 @@
     <color name="primary_light">#FFECB3</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
     <color name="primary_material_light">@color/material_grey_100</color>
-    <color name="primary_text">#212121</color>
+    <color name="primary_text">#FFF3E0</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
@@ -225,6 +226,7 @@
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
+    <item name="calligraphy_tag_id" type="id"/>
     <item name="fab_expand_menu_button" type="id"/>
     <item name="home" type="id"/>
     <item name="progress_circular" type="id"/>
@@ -266,13 +268,13 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">BluetoothChat</string>
-    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
-    <string name="button_scan">Scan for devices</string>
+    <string name="app_name">Funny Park</string>
+    <string name="bt_not_enabled_leaving">Bluetooth no fue activado.</string>
+    <string name="button_scan">Buscar dispositivos</string>
     <string name="calorias">Calorías</string>
-    <string name="discoverable">Make discoverable</string>
+    <string name="discoverable">Hacer visible</string>
     <string name="distancia">Distancia</string>
-    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="insecure_connect">Conectar a un dispositivo</string>
     <string name="intro_message">
         
         
@@ -288,28 +290,28 @@
         
         
     </string>
-    <string name="none_found">No devices found</string>
-    <string name="none_paired">No devices have been paired</string>
-    <string name="not_connected">You are not connected to a device</string>
+    <string name="none_found">No hay dispositivos disponibles</string>
+    <string name="none_paired">Ningun dispositivo se ha conectado</string>
+    <string name="not_connected">No estás conectado a un dispositivo</string>
     <string name="sample_hide_log">Hide Log</string>
     <string name="sample_show_log">Show Log</string>
-    <string name="scanning">scanning for devices...</string>
-    <string name="secure_connect">Connect a device - Secure</string>
-    <string name="select_device">select a device to connect</string>
-    <string name="send">Send</string>
+    <string name="scanning">Buscando dispositivos...</string>
+    <string name="secure_connect">Conectar a un dispositivo - Seguro</string>
+    <string name="select_device">Selecciona un dispositivo para conectar</string>
+    <string name="send">Enviar</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tiempo">Tiempo</string>
-    <string name="title_connected_to">connected to <ns1:g id="device_name">%1$s</ns1:g></string>
-    <string name="title_connecting">connecting...</string>
-    <string name="title_not_connected">not connected</string>
-    <string name="title_other_devices">Other Available Devices</string>
-    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_connected_to">Conectado a <ns1:g id="device_name">%1$s</ns1:g></string>
+    <string name="title_connecting">Conectando...</string>
+    <string name="title_not_connected">No conectado</string>
+    <string name="title_other_devices">Otros dispositivos disponibles</string>
+    <string name="title_paired_devices">Dispositivos conectados</string>
     <string name="velocidad">Velocidad</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
         <item name="colorPrimary">@color/primary_color</item>
         <item name="colorPrimaryDark">@color/primary_dark</item>
         <item name="colorAccent">@color/accent</item>
@@ -1471,6 +1473,9 @@
         <item name="android:paddingLeft">@dimen/abc_action_bar_overflow_padding_start_material</item>
         <item name="android:paddingRight">@dimen/abc_action_bar_overflow_padding_end_material</item>
     </style>
+    <style name="StiloFragment">
+        <item name="background">@color/back_grown</item>
+    </style>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
     <style name="TextAppearance.AppCompat.Body2" parent="Base.TextAppearance.AppCompat.Body2"/>
@@ -1534,6 +1539,31 @@
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
     </style>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title">
+    </style>
+    <style name="TextViewBody1" parent="TextAppearance.AppCompat.Body1">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+    <style name="TextViewBody2" parent="TextAppearance.AppCompat.Body2">
+        <item name="fontPath">fonts/Roboto-Medium.ttf</item>
+    </style>
+    <style name="TextViewCaption" parent="TextAppearance.AppCompat.Caption">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+    <style name="TextViewDisplay1" parent="TextAppearance.AppCompat.Display1">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+    <style name="TextViewDisplay2" parent="TextAppearance.AppCompat.Display2">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+    <style name="TextViewHeadline" parent="TextAppearance.AppCompat.Headline">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+    <style name="TextViewMenu" parent="TextAppearance.AppCompat.Menu"/>
+    <style name="TextViewSubhead" parent="TextAppearance.AppCompat.Subhead">
+        <item name="fontPath">fonts/Roboto-Regular.ttf</item>
+    </style>
+    <style name="TextViewTitle" parent="TextAppearance.AppCompat.Title">
+        <item name="fontPath">fonts/Roboto-Medium.ttf</item>
     </style>
     <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
     <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>
