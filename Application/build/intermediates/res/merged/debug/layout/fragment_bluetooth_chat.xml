@@ -26,47 +26,16 @@
         android:layout_height="match_parent"
         style="@style/Widget.SampleMessage">
 
-        <ImageView
-            android:layout_width="150dp"
-            android:layout_height="150dp"
-            android:id="@+id/img"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="false"
-            android:layout_alignParentEnd="false" />
-
-        <TextView
-            style="@style/TextViewDisplay1"
-            android:backgroundTint="@color/primary_color"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="AV. España"
-            android:id="@+id/textView3"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="33dp"
-            android:textColor="#ffe5de" />
-
         <TextView
             style="@style/TextViewSubhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Parque Central"
-            android:id="@+id/textView2"
-            android:layout_below="@+id/textView3"
-            android:layout_centerHorizontal="true"
-            android:textColor="#ffe5de" />
-
-        <TextView
-            style="@style/TextViewHeadline"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
             android:text="@string/distancia"
             android:id="@+id/etiqueta"
-            android:layout_below="@+id/img"
-            android:layout_alignLeft="@+id/distancia"
-            android:layout_alignStart="@+id/distancia"
-            android:textColor="#f2dfda" />
+            android:textColor="#f2dfda"
+            android:layout_alignTop="@+id/textView6"
+            android:layout_alignLeft="@+id/textView10"
+            android:layout_alignStart="@+id/textView10" />
 
         <TextView
             style="@style/TextViewSubhead"
@@ -75,22 +44,23 @@
             android:text="0"
             android:gravity="center"
             android:id="@+id/distancia"
-            android:layout_marginTop="36dp"
-            android:layout_below="@+id/etiqueta"
-            android:layout_toLeftOf="@+id/textView2"
-            android:layout_toStartOf="@+id/textView2"
-            android:textColor="#f2dfda" />
+            android:textColor="#f2dfda"
+            android:layout_centerVertical="true"
+            android:layout_alignRight="@+id/textView10"
+            android:layout_alignEnd="@+id/textView10" />
+
 
         <TextView
-            style="@style/TextViewHeadline"
+            style="@style/TextViewSubhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/tiempo"
             android:id="@+id/textView6"
-            android:layout_alignTop="@+id/etiqueta"
-            android:layout_toRightOf="@+id/textView2"
-            android:layout_toEndOf="@+id/textView2"
-            android:textColor="#f2dfda" />
+            android:textColor="#f2dfda"
+            android:layout_above="@+id/tiempo"
+            android:layout_alignRight="@+id/tiempo"
+            android:layout_alignEnd="@+id/tiempo"
+            android:layout_marginBottom="20dp" />
 
         <TextView
             style="@style/TextViewSubhead"
@@ -99,22 +69,23 @@
             android:text="0"
             android:gravity="center"
             android:id="@+id/tiempo"
-            android:layout_alignBottom="@+id/distancia"
-            android:layout_toRightOf="@+id/textView2"
-            android:layout_toEndOf="@+id/textView2"
-            android:textColor="#f2dfda" />
+            android:textColor="#f2dfda"
+            android:layout_centerVertical="true"
+            android:layout_alignRight="@+id/textView8"
+            android:layout_alignEnd="@+id/textView8" />
 
         <TextView
-            style="@style/TextViewHeadline"
+            style="@style/TextViewSubhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:gravity="center"
             android:text="@string/velocidad"
             android:id="@+id/textView8"
-            android:layout_marginTop="55dp"
-            android:layout_below="@+id/distancia"
-            android:layout_alignLeft="@+id/speed"
-            android:layout_alignStart="@+id/speed"
-            android:textColor="#f2dfda" />
+            android:textColor="#f2dfda"
+            android:layout_marginBottom="20dp"
+            android:layout_above="@+id/calorias"
+            android:layout_alignRight="@+id/speed"
+            android:layout_alignEnd="@+id/speed" />
 
         <TextView
             style="@style/TextViewSubhead"
@@ -123,22 +94,23 @@
             android:text="0"
             android:gravity="center"
             android:id="@+id/speed"
-            android:layout_below="@+id/textView8"
-            android:layout_toLeftOf="@+id/textView2"
-            android:layout_toStartOf="@+id/textView2"
-            android:layout_marginTop="41dp"
-            android:textColor="#f2dfda" />
+            android:textColor="#f2dfda"
+            android:layout_alignTop="@+id/calorias"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="40dp"
+            android:layout_marginStart="40dp" />
 
         <TextView
-            style="@style/TextViewHeadline"
+            style="@style/TextViewSubhead"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/calorias"
             android:id="@+id/textView10"
-            android:layout_above="@+id/speed"
-            android:layout_toRightOf="@+id/textView2"
-            android:layout_toEndOf="@+id/textView2"
-            android:textColor="#f2dfda" />
+            android:textColor="#f2dfda"
+            android:layout_alignTop="@+id/textView8"
+            android:layout_alignRight="@+id/calorias"
+            android:layout_alignEnd="@+id/calorias" />
 
         <TextView
             style="@style/TextViewSubhead"
@@ -147,9 +119,39 @@
             android:text="0"
             android:gravity="center"
             android:id="@+id/calorias"
-            android:layout_alignBottom="@+id/speed"
-            android:layout_toRightOf="@+id/textView2"
-            android:textColor="#fcc7b9" />
+            android:textColor="#fcc7b9"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="40dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="40dp" />
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text=""
+            android:id="@+id/textView3"
+            android:background="#039203"
+            android:layout_marginTop="41dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/distancia"
+            android:layout_alignStart="@+id/distancia" />
+
+        <TextView
+            style="@style/TextViewSubhead"
+            android:textColor="#f2dfda"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Calidad ambiental :"
+            android:id="@+id/calidad"
+            android:layout_alignBottom="@+id/textView3"
+            android:layout_alignLeft="@+id/textView8"
+            android:layout_alignStart="@+id/textView8" />
+
+
     </RelativeLayout>
 </LinearLayout>
 

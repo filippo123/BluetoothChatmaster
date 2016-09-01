@@ -61,6 +61,7 @@ public class BluetoothChatFragment extends Fragment {
     private TextView mDistanciaView;
     private TextView mTiempoView;
     private TextView mCaloriasView;
+    private TextView mSemaforo;
     private String mConnectedDeviceName = null;
     private BluetoothAdapter mBluetoothAdapter = null;
     private BluetoothChatService mChatService = null;
@@ -130,6 +131,7 @@ public class BluetoothChatFragment extends Fragment {
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         mSpeedView = (TextView) view.findViewById(R.id.speed);
         mSpeedView.setTextSize(20.0F);
+        mSemaforo = (TextView) view.findViewById(R.id.textView3);
         mDistanciaView = (TextView) view.findViewById(R.id.distancia);
         mDistanciaView.setTextSize(20.0F);
         mTiempoView = (TextView) view.findViewById(R.id.tiempo);
@@ -250,6 +252,18 @@ public class BluetoothChatFragment extends Fragment {
                         }
                         else if(contador==3){
                             mCaloriasView.setText(dato);
+                        }
+
+                        else if(contador == 11){
+                            float datoFloat = Float.parseFloat(dato);
+                            if(datoFloat>=30){
+                                mSemaforo.setBackgroundColor(0xFFF91739);
+                                //mSemaforo.setText(datoInt);
+                            }
+                            else{
+                                    //mSemaforo.setText(datoInt);
+                                    mSemaforo.setBackgroundColor(0xFF039203);
+                                }
                         }
                         contador++;
                     }
