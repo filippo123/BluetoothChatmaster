@@ -19,15 +19,12 @@ package com.example.android.bluetoothchat;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ViewAnimator;
 
 import com.example.android.common.activities.SampleActivityBase;
 import com.example.android.common.logger.Log;
-import com.example.android.common.logger.LogFragment;
 import com.example.android.common.logger.LogWrapper;
 import com.example.android.common.logger.MessageOnlyLogFilter;
 
@@ -38,7 +35,8 @@ import com.example.android.common.logger.MessageOnlyLogFilter;
  * For devices with displays with a width of 720dp or greater, the sample log is always visible,
  * on other devices it's visibility is controlled by an item on the Action Bar.
  */
-public class MainActivity extends AppCompatActivity {
+
+public class MainActivity extends SampleActivityBase {
 
     public static final String TAG = "MainActivity";
 
@@ -64,13 +62,13 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
-    @Override
-    public boolean onPrepareOptionsMenu(Menu menu) {
+     /*  @Override
+     public boolean onPrepareOptionsMenu(Menu menu) {
         MenuItem logToggle = menu.findItem(R.id.menu_toggle_log);
         logToggle.setTitle(mLogShown ? R.string.sample_hide_log : R.string.sample_show_log);
 
         return super.onPrepareOptionsMenu(menu);
-    }
+    } */
 
    /* @Override
     public boolean onOptionsItemSelected(MenuItem item) {

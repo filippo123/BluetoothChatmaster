@@ -272,9 +272,9 @@
     <string name="bt_not_enabled_leaving">Bluetooth no fue activado.</string>
     <string name="button_scan">Buscar dispositivos</string>
     <string name="calorias">Calorías</string>
-    <string name="discoverable">Hacer visible</string>
+    <string name="discoverable">Visible</string>
     <string name="distancia">Distancia</string>
-    <string name="insecure_connect">Conectar a un dispositivo</string>
+    <string name="insecure_connect">Conectar</string>
     <string name="intro_message">
         
         
@@ -296,7 +296,7 @@
     <string name="sample_hide_log">Hide Log</string>
     <string name="sample_show_log">Show Log</string>
     <string name="scanning">Buscando dispositivos...</string>
-    <string name="secure_connect">Conectar a un dispositivo - Seguro</string>
+    <string name="secure_connect">Conectar Seguro</string>
     <string name="select_device">Selecciona un dispositivo para conectar</string>
     <string name="send">Enviar</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -311,12 +311,7 @@
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
-        <item name="colorPrimary">@color/primary_color</item>
-        <item name="colorPrimaryDark">@color/primary_dark</item>
-        <item name="colorAccent">@color/accent</item>
-
-    </style>
+    <style name="AppTheme" parent="Theme.Sample"/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
         <item name="listLayout">@layout/abc_select_dialog_material</item>

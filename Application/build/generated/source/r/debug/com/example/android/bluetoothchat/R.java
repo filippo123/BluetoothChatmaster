@@ -2196,7 +2196,6 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0a0056;
         public static final int default_activity_button=0x7f0a003d;
         public static final int disableHome=0x7f0a000e;
-        public static final int discoverable=0x7f0a0087;
         public static final int distancia=0x7f0a0071;
         public static final int down=0x7f0a001d;
         public static final int edit_query=0x7f0a005a;
@@ -2216,14 +2215,13 @@ containing a value of this type.
         public static final int ifRoom=0x7f0a0034;
         public static final int image=0x7f0a003c;
         public static final int info=0x7f0a0083;
-        public static final int insecure_connect_scan=0x7f0a0086;
+        public static final int insecure_connect_scan=0x7f0a0085;
         public static final int left=0x7f0a001e;
         public static final int line1=0x7f0a007d;
         public static final int line3=0x7f0a0081;
         public static final int listMode=0x7f0a000b;
         public static final int list_item=0x7f0a003e;
         public static final int media_actions=0x7f0a007b;
-        public static final int menu_toggle_log=0x7f0a0088;
         public static final int middle=0x7f0a0031;
         public static final int mini=0x7f0a001c;
         public static final int multiply=0x7f0a0016;
@@ -2253,7 +2251,7 @@ containing a value of this type.
         public static final int search_plate=0x7f0a0060;
         public static final int search_src_text=0x7f0a0061;
         public static final int search_voice_btn=0x7f0a0065;
-        public static final int secure_connect_scan=0x7f0a0085;
+        public static final int secure_connect_scan=0x7f0a0086;
         public static final int select_dialog_listview=0x7f0a0066;
         public static final int shortcut=0x7f0a0050;
         public static final int showCustom=0x7f0a0011;

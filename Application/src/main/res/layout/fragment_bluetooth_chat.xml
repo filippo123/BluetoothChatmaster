@@ -18,7 +18,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/back_grown"
     android:weightSum="1">
 
     <RelativeLayout
@@ -32,7 +31,6 @@
             android:layout_height="wrap_content"
             android:text="@string/distancia"
             android:id="@+id/etiqueta"
-            android:textColor="#f2dfda"
             android:layout_alignTop="@+id/textView6"
             android:layout_alignLeft="@+id/textView10"
             android:layout_alignStart="@+id/textView10" />
@@ -44,7 +42,6 @@
             android:text="0"
             android:gravity="center"
             android:id="@+id/distancia"
-            android:textColor="#f2dfda"
             android:layout_centerVertical="true"
             android:layout_alignRight="@+id/textView10"
             android:layout_alignEnd="@+id/textView10" />
@@ -56,7 +53,6 @@
             android:layout_height="wrap_content"
             android:text="@string/tiempo"
             android:id="@+id/textView6"
-            android:textColor="#f2dfda"
             android:layout_above="@+id/tiempo"
             android:layout_alignRight="@+id/tiempo"
             android:layout_alignEnd="@+id/tiempo"
@@ -69,7 +65,6 @@
             android:text="0"
             android:gravity="center"
             android:id="@+id/tiempo"
-            android:textColor="#f2dfda"
             android:layout_centerVertical="true"
             android:layout_alignRight="@+id/textView8"
             android:layout_alignEnd="@+id/textView8" />
@@ -81,7 +76,6 @@
             android:gravity="center"
             android:text="@string/velocidad"
             android:id="@+id/textView8"
-            android:textColor="#f2dfda"
             android:layout_marginBottom="20dp"
             android:layout_above="@+id/calorias"
             android:layout_alignRight="@+id/speed"
@@ -94,7 +88,6 @@
             android:text="0"
             android:gravity="center"
             android:id="@+id/speed"
-            android:textColor="#f2dfda"
             android:layout_alignTop="@+id/calorias"
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
@@ -107,7 +100,6 @@
             android:layout_height="wrap_content"
             android:text="@string/calorias"
             android:id="@+id/textView10"
-            android:textColor="#f2dfda"
             android:layout_alignTop="@+id/textView8"
             android:layout_alignRight="@+id/calorias"
             android:layout_alignEnd="@+id/calorias" />
@@ -119,7 +111,6 @@
             android:text="0"
             android:gravity="center"
             android:id="@+id/calorias"
-            android:textColor="#fcc7b9"
             android:layout_alignParentBottom="true"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true"
@@ -141,7 +132,6 @@
 
         <TextView
             style="@style/TextViewSubhead"
-            android:textColor="#f2dfda"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"

@@ -41,8 +41,8 @@
     <string name="button_scan">Buscar dispositivos</string>
 
     <!-- Options Menu -->
-    <string name="secure_connect">Conectar a un dispositivo - Seguro</string>
-    <string name="insecure_connect">Conectar a un dispositivo</string>
-    <string name="discoverable">Hacer visible</string>
+    <string name="secure_connect">Conectar Seguro</string>
+    <string name="insecure_connect">Conectar</string>
+    <string name="discoverable">Visible</string>
 
 </resources>
